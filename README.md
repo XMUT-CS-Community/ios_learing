@@ -12,7 +12,11 @@
 
 ----
 
-- **笔记的大概，详情在source里**
+![项目截图](https://raw.githubusercontent.com/XMUT-CS-Community/ios_learing/master/pic/111.png)
+
+![笔记](https://raw.githubusercontent.com/XMUT-CS-Community/ios_learing/master/pic/dagang.png)
+
+- 笔记的大概，详情在source里**
 
 ## UIView
 
