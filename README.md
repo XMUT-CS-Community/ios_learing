@@ -8,6 +8,8 @@
 建议先学完oc，然后再学习斯威夫特
 视频资料和PPT我将放在学校云盘，因为当前还回不了学校
 所以我先放在网盘里，大家尽情取用，欢迎讨论
+百度网盘：
+链接:https://pan.baidu.com/s/1AXoRcS_nDsnMwMczxoW-Tw  密码:wn0r
 ```
 
 ----
